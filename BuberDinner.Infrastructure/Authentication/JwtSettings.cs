@@ -1,4 +1,4 @@
-    namespace BuberDinner.Infrastructure.Authentication
+    namespace BuberDinner.Infrastructure.Authentication;
 
     public class JwtSettings
     {

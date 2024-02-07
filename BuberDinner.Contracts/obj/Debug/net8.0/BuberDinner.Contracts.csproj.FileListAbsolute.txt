@@ -21,3 +21,15 @@ D:\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contrac
 D:\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
 D:\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll
 D:\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.deps.json
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.dll
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\bin\Debug\net8.0\BuberDinner.Contracts.pdb
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.AssemblyInfo.cs
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.sourcelink.json
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.dll
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\refint\BuberDinner.Contracts.dll
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\BuberDinner.Contracts.pdb
+E:\Dev2\Buber\BuberDinner\BuberDinner.Contracts\obj\Debug\net8.0\ref\BuberDinner.Contracts.dll

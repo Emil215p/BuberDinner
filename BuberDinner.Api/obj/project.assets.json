@@ -324,19 +324,19 @@
   },
   "packageFolders": {
     "C:\\Users\\juele\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "G:\\Visual Studio\\Other\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectUniqueName": "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "projectName": "BuberDinner.Api",
-      "projectPath": "D:\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectPath": "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "packagesPath": "C:\\Users\\juele\\.nuget\\packages\\",
-      "outputPath": "D:\\BuberDinner\\BuberDinner.Api\\obj\\",
+      "outputPath": "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "G:\\Visual Studio\\Other\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\juele\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -355,14 +355,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-              "projectPath": "D:\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
             },
-            "D:\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-              "projectPath": "D:\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+            "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+              "projectPath": "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
             },
-            "D:\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-              "projectPath": "D:\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+            "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+              "projectPath": "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
             }
           }
         }

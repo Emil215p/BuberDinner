@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
+    "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "D:\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectPath": "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\juele\\.nuget\\packages\\",
-        "outputPath": "D:\\BuberDinner\\BuberDinner.Contracts\\obj\\",
+        "outputPath": "E:\\Dev2\\Buber\\BuberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "G:\\Visual Studio\\Other\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\juele\\AppData\\Roaming\\NuGet\\NuGet.Config",
